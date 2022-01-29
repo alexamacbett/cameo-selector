@@ -1,10 +1,9 @@
-# CLEVERCRUMBISH'S CAMEO SELECTOR
-A Sunless Sea BepInEx mod that changes the cameo (avatar) selection UI at character creation to one that can handle any number of custom cameos, and makes installing them easier.
+## CleverCrumbish's Cameo Selector
+A Sunless Sea [BepInEx](https://github.com/BepInEx/BepInEx) mod that changes the cameo (avatar) selection UI at character creation to one that can handle any number of custom cameos, and makes installing them easier.
 
-### REQUIREMENTS
-• Full version: None.
-• Plugin only version: An existing BepInEx installation in your root Sunless Sea folder
-(install the full version if you don't know what this is).
+### Requirements
+- Full version: None.
+- Plugin only version: An existing BepInEx installation in your root Sunless Sea folder (install the full version if you don't know what this is).
 
 ### Installation
 Download a release. Extract the contents of one of the FOR ROOT FOLDER folders in the zip into your base Sunless Sea folder. On Steam this should be steamapps/common/SunlessSea.
@@ -26,6 +25,6 @@ Move any remaining custom cameos you installed from /images/sn/icons/avatars/ to
 
 Delete the CCCameoSelector.dll file in /BepInEx/plugins/ in your root Sunless Sea folder. If there are then no files in that folder or in the "patchers" folder next to it, you can delete /Bepinex/, winhttp.dll and doorstop_config.ini.
 
-:: CREDITS ::
-♦ Bepis and Horse on the BepInEx modding discord for helping me get this patch running.
-♦ Mayfunction because I stole her BepInEx setup from the Immersive Log Book mod to make absolutely certain it'd be compatible with Sunless Sea.
+### CREDITS
+- Bepis and Horse on the BepInEx modding discord for helping me get this patch running.
+- Marilyth because I stole her BepInEx setup from the [Immersive Log Book mod](https://github.com/Marilyth/SunlessSea-ImmersionMod) to make absolutely certain it'd be compatible with Sunless Sea.
