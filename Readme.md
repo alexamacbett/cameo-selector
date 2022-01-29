@@ -1,7 +1,7 @@
-# CLEVERCRUMBISH'S CAMEO SELECTOR
+# CleverCrumbish's Cameo Selector
 A Sunless Sea BepInEx mod that changes the cameo (avatar) selection UI at character creation to one that can handle any number of custom cameos, and makes installing them easier.
 
-### REQUIREMENTS
+### Requirements
 • Full version: None.
 • Plugin only version: An existing BepInEx installation in your root Sunless Sea folder
 (install the full version if you don't know what this is).
