@@ -3,7 +3,7 @@ A Sunless Sea BepInEx mod that changes the cameo (avatar) selection UI at charac
 
 ### Requirements
 - Full version: None.
-- - Plugin only version: An existing BepInEx installation in your root Sunless Sea folder (install the full version if you don't know what this is).
+- Plugin only version: An existing BepInEx installation in your root Sunless Sea folder (install the full version if you don't know what this is).
 
 ### Installation
 Download a release. Extract the contents of one of the FOR ROOT FOLDER folders in the zip into your base Sunless Sea folder. On Steam this should be steamapps/common/SunlessSea.
